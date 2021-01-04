@@ -1,0 +1,11 @@
+{
+  "short_name": "Prakhar Mittal",
+  "name": "Prakhar Mittal | Software Engineer | Gainesville, FL",
+  "icons": [
+
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3273DC",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,238 @@
+{
+  "basics": {
+    "name": "Prakhar Mittal",
+    "label": "Software Engineer",
+    "picture": "images/lg.jpg",
+    "x_title": "Namaste! Glad you're here",
+    "summary": "I am a Software Developer with a Master’s Degree in Computer Science from University of Florida. I'm currently seeking software engineering opportunities. I have multiple internships under my belt where I worked on numerous projects using Python, JavaScript, Java and C/C++ and other Web Development technologies. Email: prakharmittal97@gmail.com Location: Gainesville, FL and Santa Clara, CA",
+    "location": {
+      "country": "United States",
+      "countryCode": "US",
+      "region": "Gainesville, FL | Santa Clara, CA"
+    },
+    "profiles": [
+
+      {
+        "network": "GitHub",
+        "username": "prakharmittal1",
+        "url": "https://github.com/prakharmittal1",
+        "x_icon":"fab fa-2x fa-github-square"
+      },
+      {
+        "network": "Mail",
+        "url": "mailto:prakharmittal97@gmail.com",
+        "x_icon":"fas fa-envelope-open"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "prakhar-mittal",
+        "url": "https://www.linkedin.com/in/prakhar-mittal/",
+        "x_icon": "fab fa-2x fa-linkedin"
+      }
+    ]
+  },
+  "work": [
+    {
+      "image": "https://media-exp1.licdn.com/dms/image/C560BAQHkxnOuY0Xp9w/company-logo_200_200/0/1519856078337?e=1617840000&v=beta&t=HcsD6BpsoF3hbRLpz1wvlqcTd__xAhI0FvimG3YamyE",
+      "company": "Distributed Multimedia Systems",
+      "client" : "University of Florida",
+      "position": "Graduate Teaching Assistant",
+      "website": "https://www.accenture.com",
+      "startDate": "2020-08-31",
+      "endDate": "2020-12-31",
+      "summary": "Teaching Assistant for Graduate Class: Distributed Multimedia Systems, with in-person office hours. Tasks include grading and setting up scheduled assignments and exams in Fall Semester, 2020 for 76 students.",
+      "highlights": []
+    },
+    {
+      "image": "https://media-exp1.licdn.com/dms/image/C4D0BAQFgbL9RRjYdsQ/company-logo_200_200/0/1601663463337?e=1617840000&v=beta&t=WKv0HjsvmyCS1kGV8JTuUCsYY20bCTLMI6JN-4NKUjU",
+      "company": "TechM ",
+      "client" : "Tech Mahindra",
+      "position": "Software Developer Intern",
+      "website": "https://www.ibm.de",
+      "startDate": "2018-05-15",
+      "endDate": "2018-07-31",
+      "summary": "Worked in a team of 3 in an agile software development environment using Python and OpenCV for deploying ball and player tracking machine learning algorithms. Developed a website showcasing the results using JavaScript, HTML/CSS and Django framework.",
+      "highlights": []
+    },
+    {
+      "image": "https://media-exp1.licdn.com/dms/image/C4D0BAQFp4NCYZynPZQ/company-logo_200_200/0/1519855897171?e=1617840000&v=beta&t=Rk90a3z3-st49f690ku2R5In9Q_s-m61-yhTdy0TrLU",
+      "company": "Airtel",
+      "client": "Ericsson",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2017-06-01",
+      "endDate": "2017-07-30",
+      "summary": "Gained first-hand experience on how Ericsson ensures call quality and reception throughout the National Capital Region of Delhi",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "image": "https://media-exp1.licdn.com/dms/image/C560BAQHkxnOuY0Xp9w/company-logo_200_200/0/1519856078337?e=1617840000&v=beta&t=HcsD6BpsoF3hbRLpz1wvlqcTd__xAhI0FvimG3YamyE",
+      "institution": "University of Florida",
+      "area": "Computer Science",
+      "studyType": "Master of Science, ",
+      "startDate": "2019-08-20",
+      "endDate": "2020-12-31",
+      "courses": "Advanced Data Structures, Analysis of Algorithms, Computer Networks, Database Management Systems, Operating systems and Natural User Interaction, Virtual Reality, Digital Health, Engineering Innovation"
+    },
+    {
+      "image": "https://media-exp1.licdn.com/dms/image/C510BAQFpR8qejjH3Yg/company-logo_200_200/0/1520909933499?e=1617840000&v=beta&t=AdgtWJtn56U8EfajJVS6vczEP1r0nRSbHVwiV--j1OE",
+      "institution": "Jaypee Institute of Information Technology",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Technology, ",
+      "startDate": "2015-08-16",
+      "endDate": "2019-12-15",
+      "courses": "AI and Machine Learning, Mobile Communication, Digital Signal Processing, Digital Electronics, Probablity & Random Processes, Control Systems, Analog Electronics"
+    },
+    {
+      "image": "https://media-exp1.licdn.com/dms/image/C510BAQESBv5SOMztwA/company-logo_200_200/0/1519865556906?e=1617840000&v=beta&t=IKdy7Gw9WMQLUVmCs3dJxl-amdS9T_S01_EC9HfKwZI",
+      "institution": "Delhi Public School, Rohini",
+      "area": "High School",
+      "studyType": "",
+      "startDate": "2001-04-01",
+      "endDate": "2015-04-01",
+      "courses": ""
+    }
+
+
+
+
+
+  ],
+  "certifications": [
+    
+  ],
+  "skills": [
+    {
+      "name": "ReactJS",
+      "level": 80,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Python",
+      "level": 90,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "JavaScript",
+      "level": 60,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "HTML/CSS",
+      "level": 85,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "C/C++",
+      "level": 50,
+      "keywords": ["Methods"]
+    },
+
+    {
+      "name": "Java",
+      "level": 50,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": 90,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "C#",
+      "level": 60,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "MATLAB",
+      "level": 80,
+      "keywords": ["Methods"]
+    },
+
+    {
+      "name": "Linux and Windows OS",
+      "level": 95,
+      "keywords": ["Methods"]
+    },
+
+    {
+      "name": "Git/Github",
+      "level": 95,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "SQL/MySQL",
+      "level": 95,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "NoSQL",
+      "level": 65,
+      "keywords": ["Tools"]
+    },
+
+    {
+      "name": "Django",
+      "level": 50,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Flask",
+      "level": 70,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Agile Software Development",
+      "level": 90,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "AWS",
+      "level": 80,
+      "keywords": ["Tools"]
+    },
+
+    {
+      "name": "Unity",
+      "level": 90,
+      "keywords": ["Tools"]
+    }
+
+
+
+    
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+
+    {
+      "name": "Code",
+      "x_icon": "fa-code"
+    },
+    {
+      "name": "History Buff",
+      "x_icon": "fa-monument"
+    },
+    {
+      "name": "Indian Cuisine",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Defender",
+      "x_icon": "fa-futbol"
+    }
+
+  ]
+}
