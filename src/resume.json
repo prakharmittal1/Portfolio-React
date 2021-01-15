@@ -12,6 +12,14 @@
     },
     "profiles": [
 
+
+      {
+        "network": "Resume",
+        "username": "prakharmittal1",
+        "url": "https://drive.google.com/file/d/1yU0sVh7iDAaESkA44hwlwedEs2-iROzF/view?usp=sharing",
+        "x_icon":"fas fa-2x fa-file-alt"
+      },
+
       {
         "network": "GitHub",
         "username": "prakharmittal1",
@@ -21,7 +29,7 @@
       {
         "network": "Mail",
         "url": "mailto:prakharmittal97@gmail.com",
-        "x_icon":"fas fa-envelope-open"
+        "x_icon":"fas fa-2x fa-envelope"
       },
       {
         "network": "LinkedIn",

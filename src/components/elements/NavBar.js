@@ -50,7 +50,7 @@ class NavBar extends React.Component {
     
                             <MenuItem
                                 text = "Projects"
-                                href = "#articles"
+                                href = "#projects"
                             />
                         </div>
                     </div>
