@@ -41,6 +41,17 @@
   },
   "work": [
     {
+      "image": "https://livestockcity.com/assets/images/livestockcity-logo.png",
+      "company": "LivestockCity",
+      "client" : "LivestockCity",
+      "position": "Full-Stack Software Engineer Intern",
+      "website": "https://livestockcity.com/",
+      "startDate": "2021-02-15",
+      "endDate": "2021-05-15",
+      "summary": "Collaborated on LivestockCity’s social networking platform that facilitated auction, herd and inventory management. Enhanced website’s functionality with RESTful backend developed using Django(Python) with PostgreSQL database.",
+      "highlights": []
+    },
+    {
       "image": "https://media-exp1.licdn.com/dms/image/C560BAQHkxnOuY0Xp9w/company-logo_200_200/0/1519856078337?e=1617840000&v=beta&t=HcsD6BpsoF3hbRLpz1wvlqcTd__xAhI0FvimG3YamyE",
       "company": "Distributed Multimedia Systems",
       "client" : "University of Florida",
@@ -78,7 +89,7 @@
     {
       "image": "https://media-exp1.licdn.com/dms/image/C560BAQHkxnOuY0Xp9w/company-logo_200_200/0/1519856078337?e=1617840000&v=beta&t=HcsD6BpsoF3hbRLpz1wvlqcTd__xAhI0FvimG3YamyE",
       "institution": "University of Florida",
-      "area": "Computer Science",
+      "area": "Computer Science (GPA: 3.74/4.0)",
       "studyType": "Master of Science, ",
       "startDate": "2019-08-20",
       "endDate": "2020-12-31",
