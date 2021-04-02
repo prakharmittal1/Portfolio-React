@@ -125,7 +125,7 @@
   "skills": [
     {
       "name": "ReactJS",
-      "level": 80,
+      "level": 90,
       "keywords": ["Tools"]
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "name": "JavaScript",
-      "level": 60,
+      "level": 70,
       "keywords": ["Methods"]
     },
     {
@@ -151,7 +151,7 @@
 
     {
       "name": "Java",
-      "level": 50,
+      "level": 70,
       "keywords": ["Methods"]
     },
     {
@@ -194,7 +194,7 @@
 
     {
       "name": "Django",
-      "level": 50,
+      "level": 80,
       "keywords": ["Tools"]
     },
     {
