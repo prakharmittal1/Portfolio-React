@@ -10,7 +10,7 @@ class Articles extends Component{
 
     componentDidMount(){
 
-        const devTo = "https://gluehbirnenkopf.github.io/"
+        const devTo = ""
 
         fetch(devTo)
             .then(response => {
